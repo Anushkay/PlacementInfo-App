@@ -1,7 +1,7 @@
 
 ![PlacementInfo (2)](https://user-images.githubusercontent.com/72512227/188818842-c8e301ac-2cd3-480e-be9e-0c625c088f07.png)
 
-### An Android Application for college students to get notified about the placement related updates in their college.
+#### An Android Application with Realtime Database for college students to get notified about the placement related updates in their college.
 The App has Material UI and was built following MVC architecture.
 
 ## Modules
@@ -10,15 +10,15 @@ There are two different Application Modules in the project "PlacementInfo"
 - Admin module. 
 
 ### Student Module's Features: 
-    • Login And Sign up : Students can Register and Login.   
-    • Studens can get the Placement related updates posted by TPO of college at Realtime.
+    • Authentication : Students can Register and Login with email .   
+    • Read Data at Realtime : Studens can get the Placement related updates posted by TPO of college at Realtime.
     • Edit Profile : Students can Edit the data they have entered at the time of Registration.   
     • Upload Resumes : Students can Upload their resumes/cv to firebase which can be seen by TPO and the companies who have regitered to Admin app.
     
     
 ### Admin Module's Features :
-    • Login And Sign up : TPO of college and companies can Register and Login.
-    • Announce updates: Allows TPO's to Upload , Edit and  Delete Placement regarding informations. 
+    • Authentication : TPO of college and companies can Register and Login with email.
+    • Announce updates at Realtime : Allows TPO's to Upload , Edit and  Delete Placement regarding informations. 
     • Student History : TPO and registered Companies can get all the details about the students who have registered to Placementinfo
     • Get Resumes : TPO and registered Companies can read resumes of all the students.
     
