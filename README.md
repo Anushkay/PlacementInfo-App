@@ -22,12 +22,12 @@ There are two different Application Modules in the project "PlacementInfo"
     • Student History : TPO and registered Companies can get all the details about the students who have registered to Placementinfo
     • Get Resumes : TPO and registered Companies can read resumes of all the students.
     
-# Student Application Demo :
+## Student Application Demo :
 
 
 
 
-Splash Screen --> Login/Register          |  Login
+Splash Screen --> Login/Register    |  Login
 :-------------------------:|:-------------------------:
 ![8 (1)](https://user-images.githubusercontent.com/72512227/188828078-4e9345d1-019a-4c22-b042-6440a479a545.gif)  |   ![9](https://user-images.githubusercontent.com/72512227/188827631-15a2728b-ec2b-4e77-a065-a705ad73804d.gif)
 
@@ -40,7 +40,7 @@ Edit Profile         |           Upload Resume
 
 
 
-# Admin Application Demo :
+## Admin Application Demo :
 
 
  
@@ -54,7 +54,7 @@ Left Swipe to Edit Update              | Right Swipe to Delete Update
 ![4](https://user-images.githubusercontent.com/72512227/188835669-0df7ad5c-819c-40bb-a8bc-bb722ebfe287.gif)  | ![5](https://user-images.githubusercontent.com/72512227/188836406-0e924a7f-aeea-4dc0-8d80-7d6bd407b1d2.gif)
 
 
-Click the card to get Student Detail             |  click the card to get student's Resume 
+Click the card to get Student's Detail             |  click the card to get Student's Resume 
 :-------------------------:|:-------------------------:
 ![6](https://user-images.githubusercontent.com/72512227/188837416-bf7012dc-a3cb-4ee5-a2cf-de9e03b5f8ef.gif)  |  ![7](https://user-images.githubusercontent.com/72512227/188837872-1106cada-7e07-4652-8aa6-aa156ced5843.gif)
 
