@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1984375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/drawable/gradient.xml" value="0.1984375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/drawable/gradient_student.xml" value="0.1984375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1984375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/drawable/ic_baseline_delete_outline_24.xml" value="0.1984375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/drawable/ic_menu_gallery.xml" value="0.1984375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1984375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/drawable/side_nav_bar.xml" value="0.1984375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/font/baloo_bhaijaan.xml" value="0.2125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/font/baloo_paaji_2.xml" value="0.2125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/font/basic.xml" value="0.2125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/activity_add_update.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/activity_admin_dash_board.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/activity_admin_login.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/activity_admin_signup.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/activity_splash.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/activity_view_pdf.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/app_bar_admin_home.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/content_admin_home.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/dialog_student_detail.xml" value="0.22" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/edit_dialog.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/fragment_admin_post.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/fragment_gallery.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/fragment_get_resumes.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/fragment_slideshow.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/fragment_student_detail.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/get_resumes_card.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/gradient.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/nav_header_admin_home.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/student_detail.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/layout/updates.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/adminapp/src/main/res/menu/bottom_navigation_items.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/drawable/button_border.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/drawable/ic_baseline_update_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/drawable/ic_user.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/font/baloo_paaji_2.xml" value="0.2125" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/acivity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/activity_admin_login.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/activity_admin_signup.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/activity_dash_board.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/activity_signup.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/activity_user_type.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/fragment_account.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/fragment_resume_upload.xml" value="0.18" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/fragment_setting.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/fragment_update.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/layout.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/splash.xml" value="0.25" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/layout/updates.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/menu/bottom_navigation_items.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PlacementInfo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1984375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16822916666666668" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

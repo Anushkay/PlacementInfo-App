@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PlacementInfo</string>
+    <string name="college_name">Jawaharlal Institute Of Technology</string>
+
+    <string name="login">LOGIN</string>
+    <string name="username">email</string>
+    <string name="password">password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="signup_button">SIGN UP</string>
+    <string name="signup">Create Account</string>
+    <string name="update">Update</string>
+    <string name="full_name"> Full Name </string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enrollment_number">Enrollment Number  </string>
+    <string name="branch">Branch</string>
+    <string name="CGPA">CGPA</string>
+    <string name="signup_password">Create Password</string>
+    <string name="register_button">Register</string>
+    <string name="go_to_login_button">Click here to login</string>
+    <string name="registration_successful"> Registered Successfully</string>
+    <string name="login_successfully">Logged in Successfully</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="change_password">Change Password</string>
+    <string name="upload_resume">Upload your Resume here</string>
+    <string name="uploading_text">Enter the name of pdf file</string>
+    <string name="upload_button_text">Upload</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="login_as">Login As :</string>
+    <string name="student_login">Student</string>
+    <string name="admin_login">TPO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

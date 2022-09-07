@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">AdminApp</string>
+    <string name="college_name">Jawaharlal Institute Of Technology</string>
+
+    <string name="login">LOGIN</string>
+    <string name="username">email</string>
+    <string name="password">password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="signup_button">SIGN UP</string>
+    <string name="signup">Create Account</string>
+    <string name="update">Update</string>
+    <string name="full_name"> Full Name </string>
+    <string name="email">Email</string>
+    <string name="signup_password">Create Password</string>
+    <string name="register_button">Register</string>
+    <string name="go_to_login_button">Click here to login</string>
+    <string name="registration_successful"> Registered Successfully</string>
+    <string name="login_successfully">Logged in Successfully</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="title_activity_admin_home">AdminHome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_update">Edit</string>
+    <string name="save">Save Changes</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="floating_button_description">add update</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="back">back</string>
+    <string name="add_update">Add new update</string>
+    <string name="add">add</string>
+    <string name="student_detail_dialog_title">Detail</string>
+    <string name="dialog_name_field">Name</string>
+    <string name="dialog_email_field">email</string>
+    <string name="dialog_phone_field">phone number</string>
+    <string name="dialog_enrollment_field">enrollment number</string>
+    <string name="dialog_branch_field">branch</string>
+    <string name="dialog_cgpa_field">CGPA</string>
+    <string name="type">type</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

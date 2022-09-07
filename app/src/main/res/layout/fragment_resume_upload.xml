@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.ResumeUploadFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/jit_logo"
+            android:layout_width="175dp"
+            android:layout_height="175dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/logo2">
+
+        </ImageView>
+
+        <TextView
+            android:id="@+id/resume_upload_title_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/jit_logo"
+            android:layout_marginTop="50dp"
+            android:text="@string/upload_resume"
+            android:fontFamily="@font/baloo_bhaijaan"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <EditText
+            android:id="@+id/edit_text_design"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/resume_upload_title_text"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="30dp"
+            android:backgroundTint="@color/black"
+            android:fontFamily="monospace"
+            android:hint="@string/uploading_text"></EditText>
+
+        <Button
+            android:id="@+id/upload_button"
+            android:layout_width="125dp"
+            android:layout_height="wrap_content"
+            android:text="@string/upload_button_text"
+            android:layout_below="@+id/edit_text_design"
+            android:layout_marginTop="20dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/button_border"
+            >
+
+        </Button>
+
+
+
+
+    </RelativeLayout>
+
+
+
+</FrameLayout>
