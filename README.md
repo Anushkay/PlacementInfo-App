@@ -2,6 +2,7 @@
 ![PlacementInfo (2)](https://user-images.githubusercontent.com/72512227/188818842-c8e301ac-2cd3-480e-be9e-0c625c088f07.png)
 
 ### An Android Application for college students to get notified about the placement related updates in their college.
+The App has Material UI and was built following MVC architecture.
 
 ## Modules
 There are two different Application Modules in the project "PlacementInfo"
