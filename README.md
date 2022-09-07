@@ -27,7 +27,7 @@ There are two different Application Modules in the project "PlacementInfo"
 
 
 
-Splash Screen --> Login/Register    |  Login
+Splash Screen - Login/Register    |  Login
 :-------------------------:|:-------------------------:
 ![8 (1)](https://user-images.githubusercontent.com/72512227/188828078-4e9345d1-019a-4c22-b042-6440a479a545.gif)  |   ![9](https://user-images.githubusercontent.com/72512227/188827631-15a2728b-ec2b-4e77-a065-a705ad73804d.gif)
 
